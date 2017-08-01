@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BookFirebase</string>
+
+    <array name="genres">
+        <item name="sci-fi">Sci-fi</item>
+        <item name="fiction">Fiction</item>
+        <item name="suspense">Suspense</item>
+        <item name="horror">Horror</item>
+        <item name="thriller">Thriller</item>
+    </array>
+</resources>
